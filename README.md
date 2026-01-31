@@ -30,11 +30,11 @@ I create clean, scalable, and user-friendly web applications that solve real pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
 </p>
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
-**Backend:** Node.js · Express · REST APIs · GraphQL  
-**Database:** PostgreSQL · MongoDB · Redis  
-**Tools & DevOps:** Git · Docker · CI/CD · AWS  
-**Mobile & Languages:** Kotlin · Flutter
+**Frontend--** React · Next.js · TypeScript · Tailwind CSS  
+**Backend--** Node.js · Express · REST APIs · GraphQL  
+**Database--** PostgreSQL · MongoDB · Redis  
+**Tools & DevOps--** Git · Docker · CI/CD · AWS  
+**Mobile & Languages--** Kotlin · Flutter
 
 ---
 
